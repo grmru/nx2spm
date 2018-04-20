@@ -1,0 +1,4 @@
+/managed/*.dll
+/managed/*.xml
+bin/
+obj/
